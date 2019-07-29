@@ -1,3 +1,12 @@
+#Instruction
+This assignment requires you to develop a parallel back-tracking algorithm to the classic n-queens problem.
+Consider a n X n chessboard on which n queens are to be placed. Let (i; j) and (k; l) denote the respective
+positions of two queens. The queens are said to threaten each other if
+i = k, or
+j = l, or
+|i - k| = |j - l|
+The n-queens problem is to position the n queens on the chessboard such that no two queens threaten each other.
+
 ## Code structure
 
 All the code is located at the root level of the project.
