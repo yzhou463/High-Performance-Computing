@@ -1,5 +1,5 @@
 ## Instruction
-In this project, we are using a slightly modified version of the dartboard algorithm. Instead of a square board with an inscribed circular frontend, we have a circular board
+This project aims to develop a slightly modified version of the dartboard algorithm using Parallel programming. Instead of a square board with an inscribed circular frontend, we have a circular board
 with an inscribed square frontend.
 
 Suppose p the radius of the circle is r. The inscribed square therefore has each side of length is 1.414 * r.
