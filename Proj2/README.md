@@ -1,6 +1,3 @@
-CX4220/CSE 6220 Programming Assignment 2
-=================================
-
 ## Code structure
 
 All the code is located at the root level of the project.
@@ -8,7 +5,7 @@ All the code is located at the root level of the project.
 There are multiple header and .cpp files, your implementation will go
 into the following file:
 
-- `solver.cpp`: Implement the sequential algorithm for nqueen problem, the master and worker functions for parallel nqueen according
+- `solver.cpp`: Sequential algorithm for nqueen problem, the master and worker functions for parallel nqueen according
   to the function declarations in `solver.h`
 
 
